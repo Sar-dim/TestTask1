@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailSQLLogger", "MailSQLLogger\MailSQLLogger.csproj", "{E1055F92-E5A8-48DA-9713-8380BB8FFB5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{6243F155-3CBE-4187-A54F-41C0C3A21A5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workers", "Workers\Workers.csproj", "{011A37C0-407E-4751-AF76-FF6ACDB87672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1055F92-E5A8-48DA-9713-8380BB8FFB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1055F92-E5A8-48DA-9713-8380BB8FFB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1055F92-E5A8-48DA-9713-8380BB8FFB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1055F92-E5A8-48DA-9713-8380BB8FFB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6243F155-3CBE-4187-A54F-41C0C3A21A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6243F155-3CBE-4187-A54F-41C0C3A21A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6243F155-3CBE-4187-A54F-41C0C3A21A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6243F155-3CBE-4187-A54F-41C0C3A21A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011A37C0-407E-4751-AF76-FF6ACDB87672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A37C0-407E-4751-AF76-FF6ACDB87672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A37C0-407E-4751-AF76-FF6ACDB87672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A37C0-407E-4751-AF76-FF6ACDB87672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E1741D-68FB-44C9-A102-5787F26D606C}
+	EndGlobalSection
+EndGlobal
